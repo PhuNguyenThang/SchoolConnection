@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class Sendgridconfig {
 
-	private static final String key="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";
+	private static final String key="";
 
 
 	@Bean
